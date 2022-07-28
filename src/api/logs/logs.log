@@ -1,0 +1,6 @@
+27-07-2022	49:32:19---/customers/register---POST---"email" is required
+27-07-2022	59:33:19---/customers/login---POST---"firstName" is required
+27-07-2022	37:34:19---/customers/register---POST---"password" length must be at least 6 characters long
+27-07-2022	25:44:19---/customers/register---POST---"password" length must be at least 6 characters long
+27-07-2022	48:44:19---/customers/login---POST---Unexpected token } in JSON at position 45
+27-07-2022	53:44:19---/customers/login---POST---"password" is required
